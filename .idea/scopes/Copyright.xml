@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Copyright" pattern="(file[MazeGame.main]:*/&amp;&amp;!file:java/biz/source_code/utils/RawConsoleInput.java||file[MazeGame]:*/)&amp;&amp;!file[MazeGame]:.idea//*&amp;&amp;!file:.gitignore&amp;&amp;!file:gradlew&amp;&amp;!file:gradlew.bat&amp;&amp;!file:LICENSE&amp;&amp;!file:kotlin/tech/napkin/games/maze/RawConsoleInput.kt" />
+</component>
